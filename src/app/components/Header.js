@@ -40,10 +40,10 @@ function Header() {
                     <div className='max-w-sm lg:max-w-6xl mx-auto justify-between flex mt-0'>
                         <div className={`md:w-1/4 flex justify-center items-center text-stone-800 md:py-4 mx-0 md:mx-6 lg:mx-0 cursor-default  ${cinzel.className}`}>
                             <div className='my-0.25 md:my-0'>
-                                <a href="/">
+                                {/* <a href="/"> */}
                                     <div className={`text-2xl md:text-4xl font-semibold `}>VENUS</div>
                                     <div className='flex text-sm md:text-lg font-semibold text-center justify-center -mt-2 xl:-mt-3'>Jewellery</div>
-                                </a>
+                                {/* </a> */}
                             </div>
                         </div>
 
